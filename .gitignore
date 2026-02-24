@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+*.o
+*.asm.o
+*.elf
+*.bin
+*.iso
+*.img
+
+# IDE / Editor
+.vscode/
+.idea/
+.cursor/
+.claude/
+.gemini/
+*.swp
+*~
+.DS_Store
