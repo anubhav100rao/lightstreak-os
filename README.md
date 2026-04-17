@@ -206,6 +206,7 @@ Detailed documentation lives in the [`docs/`](docs/) directory:
 | Document | Contents |
 |----------|----------|
 | [architecture.md](docs/architecture.md) | System architecture, memory maps, privilege rings, boot sequence |
+| [current-project-overview.md](docs/current-project-overview.md) | Best current onboarding doc: scope, architecture, workflows, capabilities, and runtime caveats |
 | [boot.md](docs/boot.md) | Detailed boot process from BIOS to kmain |
 | [gdt-tss-idt.md](docs/gdt-tss-idt.md) | GDT segments, TSS, IDT gates deep dive |
 | [memory-management.md](docs/memory-management.md) | PMM bitmap allocator, VMM paging, heap internals |
